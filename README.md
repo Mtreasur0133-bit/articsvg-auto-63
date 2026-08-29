@@ -1,0 +1,2 @@
+# articsvg-auto-63
+SVG batch publisher output
